@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "You got a great idea, now you need a IT plan"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
